@@ -5,7 +5,7 @@
 	<TargetFrameworks>netcoreapp3.1; netstandard2.0</TargetFrameworks>
     <AssemblyName>SystemDot.Bootstrapping</AssemblyName>
     <RootNamespace>SystemDot.Bootstrapping</RootNamespace>
-    <Version>3.0.0</Version>
+    <Version>4.0.0</Version>
     <PackageId>SystemDotBootstrapping</PackageId>
     <Authors>Chris Sampson. James Goodenough</Authors>
     <Company>SystemDot</Company>
@@ -29,7 +29,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="SystemDotIoc" Version="3.0.0" />
+    <PackageReference Include="SystemDotIoc" Version="4.0.0" />
   </ItemGroup>
 
 </Project>
